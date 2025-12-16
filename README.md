@@ -74,6 +74,7 @@ Building real-world UI components
 Structuring clean, maintainable HTML code
 
 ## **📂 Project Structure**
+```
 /project-folder
 │── index.html
 │── style.css
@@ -81,6 +82,7 @@ Structuring clean, maintainable HTML code
       ├── thumbnails  
       ├── channel-icons  
       └── navigation-icons
+```
 
 
 
